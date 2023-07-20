@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "632066093183",
+    "project_id": "sportsapp-29e3f",
+    "storage_bucket": "sportsapp-29e3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632066093183:android:4bf675f208456981f04f4a",
+        "android_client_info": {
+          "package_name": "com.example.hslive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632066093183-vlja5u3phphga6tvn5mpbbu5lvn1bbrq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsdBjkSprRy2-bmLPfGeaec-cuItE0DqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632066093183-vlja5u3phphga6tvn5mpbbu5lvn1bbrq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "632066093183-ninvnnssltgiv4kq68hip6ek1ei7nj1p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.company.HSLive"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
