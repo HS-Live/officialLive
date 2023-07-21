@@ -1,13 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:hslive/SoccerPage.dart';
-import 'package:hslive/reusableWidgets/TeamScore.dart';
-import 'package:hslive/reusableWidgets/boxScores.dart';
 import 'package:hslive/reusableWidgets/calendar.dart';
-import 'package:hslive/reusableWidgets/newbox.dart';
-
-import 'package:hslive/reusableWidgets/sportsBox.dart';
-import 'package:hslive/standingsPage.dart';
+import 'package:hslive/sportsPages/SoccerPage.dart';
+import 'package:hslive/sportsPages/standingsPage.dart';
 
 void main() => runApp(const navPage());
 
